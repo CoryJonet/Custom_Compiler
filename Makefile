@@ -8,8 +8,8 @@
 ###
 
 JC = javac
-CP = /p/course/cs536-loris/public/tools/deps_src/java-cup-11b.jar:/p/course/cs536-loris/public/tools/deps_src/java-cup-11b-runtime.jar:/p/course/cs536-loris/public/tools/deps:.
-CP2 = /p/course/cs536-loris/public/tools/deps:.
+CP = .
+CP2 = .
 
 P3.class: P3.java parser.class Yylex.class ASTnode.class
 	$(JC)    P3.java
