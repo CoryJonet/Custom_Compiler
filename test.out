@@ -1,0 +1,98 @@
+int b;
+int _w;
+int x12;
+int y;
+int z;
+bool flag;
+bool _what;
+bool idkwhatisthis123;
+void thisisntvlid;
+void _blah;
+void slfhsdfh1123;
+
+struct node {
+    bool thisIsABoolean;
+    int a;
+    void wut_lol;
+    struct huh doesntExist;
+};
+struct node testNode;
+
+int test_arithmetic(int d, bool y) {
+    int moreVariables;
+    bool yay;
+    void boo;
+    b = 10;
+    x12 = 5;
+    y = 8;
+    z = 4;
+    z = (-y);
+    flag = false;
+    _w = (y + z);
+    testNode.a = z;
+    testNode.thisIsABoolean = false;
+    if (((_w != 12) || (flag == true))) {
+        return x;
+    }
+    if (((z > 3) && (z < 10))) {
+        z++;
+        z++;
+        z--;
+        return z;
+    }
+    if (((z >= 0) || (z <= 2))) {
+        z = (z + (-7));
+        return (z + y);
+    }
+    else {
+        b = ((x12 * 3) - ((4 / 5) * 5));
+        z = (_w - (x * 6));
+        y = (_w + (x12 / 9));
+        _w = (b / z);
+        return b;
+    }
+
+}
+
+int endOfProgram(int blah) {
+    cout << z;
+}
+
+void thisIsPointless() {
+}
+
+void main() {
+    int h;
+    int g;
+    g = 10;
+    k = false;
+    h = test_arithmetic(g, k);
+    if ((testNode.a > 1)) {
+        return b;
+    }
+    if ((b == (-1))) {
+        test_arithmetic(w, a);
+        x12 = ((4 + (3 * 5)) - y);
+        while (c) {
+            y = ((y * 2) + x12);
+        }
+
+    }
+    else {
+        testNode.doesntExist = NULL;
+        x12 = 0;
+    }
+
+    no_string_type = "Variables:";
+    cout << no_string_listed;
+    cout << "Enter something for z:";
+    cin >> z;
+    while ((z > 0)) {
+        testNode.wut_lol = nothing;
+        thisIsPointless();
+        z--;
+    }
+
+    endOfProgram();
+    thisIsPointless();
+}
