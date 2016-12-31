@@ -1,0 +1,48 @@
+Sym: bool
+Line Number: 1
+Character Number: 1
+
+Sym: cin
+Line Number: 2
+Character Number: 1
+
+Sym: cout
+Line Number: 3
+Character Number: 1
+
+Sym: else
+Line Number: 4
+Character Number: 1
+
+Sym: false
+Line Number: 5
+Character Number: 1
+
+Sym: if
+Line Number: 6
+Character Number: 1
+
+Sym: int
+Line Number: 7
+Character Number: 1
+
+Sym: return
+Line Number: 8
+Character Number: 1
+
+Sym: struct
+Line Number: 9
+Character Number: 1
+
+Sym: true
+Line Number: 10
+Character Number: 1
+
+Sym: void
+Line Number: 11
+Character Number: 1
+
+Sym: while
+Line Number: 12
+Character Number: 1
+

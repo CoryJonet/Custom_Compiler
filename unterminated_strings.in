@@ -1,0 +1,6 @@
+"unterminated
+"also unterminated \"
+"backslash followed by space: \ is not allowed"
+"bad escaped character: \a AND not terminated
+"WHY WOULD YOU NOT TERMINATE A STRING
+"\what

@@ -1,0 +1,8 @@
+Sym: StringLiteral
+Line Number: 1
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 2
+Character Number: 1
+

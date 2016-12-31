@@ -1,0 +1,304 @@
+Sym: bool
+Line Number: 1
+Character Number: 1
+
+Sym: cin
+Line Number: 2
+Character Number: 1
+
+Sym: cout
+Line Number: 3
+Character Number: 1
+
+Sym: else
+Line Number: 4
+Character Number: 1
+
+Sym: false
+Line Number: 5
+Character Number: 1
+
+Sym: if
+Line Number: 6
+Character Number: 1
+
+Sym: int
+Line Number: 7
+Character Number: 1
+
+Sym: return
+Line Number: 8
+Character Number: 1
+
+Sym: struct
+Line Number: 9
+Character Number: 1
+
+Sym: true
+Line Number: 10
+Character Number: 1
+
+Sym: void
+Line Number: 11
+Character Number: 1
+
+Sym: while
+Line Number: 12
+Character Number: 1
+
+Sym: ID
+Line Number: 13
+Character Index: 1
+
+Sym: ID
+Line Number: 14
+Character Index: 1
+
+Sym: ID
+Line Number: 15
+Character Index: 1
+
+Sym: ID
+Line Number: 16
+Character Index: 1
+
+Sym: ID
+Line Number: 17
+Character Index: 1
+
+Sym: ID
+Line Number: 18
+Character Index: 1
+
+Sym: ID
+Line Number: 19
+Character Index: 1
+
+Sym: ID
+Line Number: 20
+Character Index: 1
+
+Sym: ID
+Line Number: 21
+Character Index: 1
+
+Sym: ID
+Line Number: 22
+Character Index: 1
+
+Sym: ID
+Line Number: 23
+Character Index: 1
+
+Sym: ID
+Line Number: 24
+Character Index: 1
+
+Sym: IntLiteral
+Line Number: 25
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 26
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 27
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 28
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 29
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 30
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 31
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 32
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 33
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 34
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 35
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 36
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 37
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 38
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 39
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 40
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 41
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 42
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 43
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 44
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 45
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 46
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 47
+Character Number: 1
+
+Sym: RCurly
+Line Number: 48
+Character Number: 1
+
+Sym: LParen
+Line Number: 49
+Character Number: 1
+
+Sym: RParen
+Line Number: 50
+Character Number: 1
+
+Sym: Semicolon
+Line Number: 51
+Character Number: 1
+
+Sym: Comma
+Line Number: 52
+Character Number: 1
+
+Sym: Dot
+Line Number: 53
+Character Number: 1
+
+Sym: Read
+Line Number: 54
+Character Number: 1
+
+Sym: Write
+Line Number: 55
+Character Number: 1
+
+Sym: PlusPlus
+Line Number: 56
+Character Number: 1
+
+Sym: MinusMiuns
+Line Number: 57
+Character Number: 1
+
+Sym: RCurly
+Line Number: 58
+Character Number: 1
+
+Sym: Minus
+Line Number: 59
+Character Number: 1
+
+Sym: Times
+Line Number: 60
+Character Number: 1
+
+Sym: Divide
+Line Number: 61
+Character Number: 1
+
+Sym: Not
+Line Number: 62
+Character Number: 1
+
+Sym: And
+Line Number: 63
+Character Number: 1
+
+Sym: Or
+Line Number: 64
+Character Number: 1
+
+Sym: Equals
+Line Number: 65
+Character Number: 1
+
+Sym: NotEquals
+Line Number: 66
+Character Number: 1
+
+Sym: Less
+Line Number: 67
+Character Number: 1
+
+Sym: Greater
+Line Number: 68
+Character Number: 1
+
+Sym: LessEq
+Line Number: 69
+Character Number: 1
+
+Sym: GreaterEq
+Line Number: 70
+Character Number: 1
+
+Sym: Assign
+Line Number: 71
+Character Number: 1
+
+Sym: StringLiteral
+Line Number: 76
+Character Number: 1
+
+Sym: ID
+Line Number: 79
+Character Index: 1
+
+Sym: Times
+Line Number: 79
+Character Number: 2
+
+Sym: ID
+Line Number: 82
+Character Index: 1
+
+Sym: Not
+Line Number: 83
+Character Number: 1
+

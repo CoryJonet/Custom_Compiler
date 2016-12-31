@@ -1,0 +1,16 @@
+Sym: ID
+Line Number: 3
+Character Index: 1
+
+Sym: Times
+Line Number: 3
+Character Number: 2
+
+Sym: ID
+Line Number: 6
+Character Index: 1
+
+Sym: Not
+Line Number: 7
+Character Number: 1
+

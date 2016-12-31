@@ -1,0 +1,28 @@
+Sym: IntLiteral
+Line Number: 1
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 2
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 3
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 4
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 5
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 6
+Character Number: 1
+
+Sym: IntLiteral
+Line Number: 7
+Character Number: 1
+

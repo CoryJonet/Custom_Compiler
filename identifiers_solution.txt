@@ -1,0 +1,48 @@
+Sym: ID
+Line Number: 1
+Character Index: 1
+
+Sym: ID
+Line Number: 2
+Character Index: 1
+
+Sym: ID
+Line Number: 3
+Character Index: 1
+
+Sym: ID
+Line Number: 4
+Character Index: 1
+
+Sym: ID
+Line Number: 5
+Character Index: 1
+
+Sym: ID
+Line Number: 6
+Character Index: 1
+
+Sym: ID
+Line Number: 7
+Character Index: 1
+
+Sym: ID
+Line Number: 8
+Character Index: 1
+
+Sym: ID
+Line Number: 9
+Character Index: 1
+
+Sym: ID
+Line Number: 10
+Character Index: 1
+
+Sym: ID
+Line Number: 11
+Character Index: 1
+
+Sym: ID
+Line Number: 12
+Character Index: 1
+

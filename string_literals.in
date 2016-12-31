@@ -1,0 +1,22 @@
+"\n"
+"\t"
+"\'"
+"\""
+"\\"
+""
+"\n\t\""
+"\t\n \'"
+"\n \t \\"
+"&!88"
+"use \n to denote a newline character"
+"include a quote like this \" and a backslash like this \\"
+"ALL CAPS STOP YELLING"
+" Sentence with space in front"
+"Sentence with number: 123434 234"
+" Random characters: #($(&$)@#*#_)@!&$"
+"unterminated
+"also unterminated \"
+"backslash followed by space: \ is not allowed"
+"bad escaped character: \a AND not terminated
+"WHY WOULD YOU NOT TERMINATE A STRING
+"\what
