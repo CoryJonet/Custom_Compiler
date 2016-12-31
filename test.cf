@@ -1,0 +1,127 @@
+// Comments should not exist
+//This shouldn't either
+
+// Test decls
+int b;
+int _w;
+int x12;
+int y;
+int z;
+bool flag;
+bool _what;
+bool idkwhatisthis123;
+// Test struct
+struct node {
+       bool thisIsABoolean;
+       int a;
+};
+
+struct _whatisThis {
+       struct node a;
+       bool what;
+};
+
+// Test struct decl
+struct node testNode;
+
+// Test func with parameters
+int endOfProgram(int blah) {
+
+    cout << z;
+
+}
+
+// Test function
+int test_arithmetic(int d){
+    
+
+    int moreVariables;
+    bool yay;
+
+    // Test ASSIGN
+    b = 10;
+    x12 = 5;
+    y = 8;
+    z = 4;
+    z = -y;
+    flag = false;
+
+    _w = y + z;
+
+    testNode.a = z;
+    testNode.thisIsABoolean = false;
+
+    if (flag) {
+    
+	b++;
+	z--;
+
+	b = b + z;
+	b = b - z;
+	b = b * z;
+	b = b / z;
+
+    }
+
+    if(endOfProgram(testNode.a) > 1) {
+
+         int a;
+	 a = 8;
+    	 cout << a;
+    }
+
+    else {
+
+    	 while (true) {
+	       cin >> b;
+	       cout << z;
+	 }
+    }
+    // Test IF, NOTEQUALS, EQUALS, RETURN
+    //if((_w != 12) || (flag == true)) { return _w;}
+
+    // Test IF, GREATER, LESS, PLUSPLUS, MINUSMINUS, RETURN    
+    //if((z > 3) && (z<10)) {z++;z++; z--; return z;}
+
+    // Test IF, GREATEREQ, LESSEQ, UNARYMINUS, RETURN
+    //if((z>=0) || (z <=2)) {z =z +-7; return z + y;}
+
+    // Test ELSE, ASSIGN, MINUS, MULTI, DIVIDE
+    //else{b = x12 * 3 - 4 / 5 * 5; z = _w - _w * 6; y = _w + x12 / 9; _w = b / z; return b;} 
+}
+
+
+void idkWhatThisIs(bool huh, int idk, bool cool) {
+}
+
+// Test empty func
+void thisIsPointless(){}
+
+void main() {
+
+     // More assign testing
+     int h;
+     int g;
+     g = 10;
+    
+     // Test func call with parameters
+     h = test_arithmetic(h);
+     
+     // Test struct sub field(s)
+     if (testNode.a > 1){g=11;} 
+     
+     // Test nested function, example on program spec page 
+     //if (b == -1) { test_arithmetic(g);x12 = 4+3*5-y;}
+          
+     // Test COUT, CIN	  
+     cout << "Enter something for z:";
+     cin >> z;
+
+     // Test WHILE, Nested func call, Nested struct assign
+     while(g>0){thisIsPointless();g--;}
+
+     // Test more func calls
+     g = endOfProgram(h);
+     thisIsPointless();
+}
+

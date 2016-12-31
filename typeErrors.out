@@ -1,0 +1,109 @@
+int aaa;
+int ccc;
+bool bbb;
+struct S{
+    int a;
+};
+
+struct A{
+    bool y;
+};
+
+struct S t;
+struct S h;
+struct A n;
+void f(int p1, bool p2) {
+}
+
+void test1(int x) {
+    int fff;
+    return fff(int);
+}
+
+int test2(bool z) {
+    bool jjj;
+    return jjj(bool);
+}
+
+bool test3(bool y) {
+    bool ddd;
+    return;
+}
+
+void main() {
+    int aaa;
+    bool ddd;
+    test1(int->void) = test2(bool->int);
+    t(S) = n(A);
+    S(struct) = A(struct);
+    ddd(bool) = (f(int,bool->void)(aaa(int), ddd(bool)) == test1(int->void)(aaa(int)));
+    ddd(bool) = (t(S) != n(A));
+    ddd(bool) = (S(struct) == A(struct));
+    aaa(int) = (f(int,bool->void) + f(int,bool->void));
+    bbb(bool) = (f(int,bool->void) == 3);
+    bbb(bool) = (f(int,bool->void) > main(->void));
+    bbb(bool) = (f(int,bool->void) == f(int,bool->void));
+    aaa(int)();
+    f(int,bool->void)();
+    f(int,bool->void)(5);
+    f(int,bool->void)(aaa(int), aaa(int));
+    f(int,bool->void)(t(S), t(S).a(int));
+    S(struct)();
+    t(S) = 5;
+    t(S) = t(S);
+    cin >> S(struct);
+    t(S) = (true || 3);
+    bbb(bool) = (S(struct) && t(S).a(int));
+    return 10;
+    aaa(int) = (aaa(int) + (!false));
+    aaa(int) = (aaa(int) + "foo");
+    bbb(bool) = aaa(int);
+    bbb(bool) = ((aaa(int) + true) && (bbb(bool) < true));
+    ddd(bool) = test3(bool->bool)(bbb(bool));
+    aaa(int) = test3(bool->bool)(bbb(bool));
+    aaa(int) = S(struct);
+    aaa(int) = t(S);
+    aaa(int) = t(S).a(int);
+    bbb(bool)++;
+    bbb(bool)--;
+    aaa(int)--;
+    aaa(int)++;
+    aaa(int) = (bbb(bool) + ccc(int));
+    aaa(int) = (bbb(bool) - ccc(int));
+    aaa(int) = (bbb(bool) * ccc(int));
+    aaa(int) = (bbb(bool) / ccc(int));
+    aaa(int) = (ccc(int) + bbb(bool));
+    aaa(int) = (ccc(int) - bbb(bool));
+    aaa(int) = (ccc(int) * bbb(bool));
+    aaa(int) = (ccc(int) / bbb(bool));
+    bbb(bool) = (aaa(int) == ccc(int));
+    bbb(bool) = (aaa(int) == bbb(bool));
+    bbb(bool) = (test1(int->void)(aaa(int)) == ccc(int));
+    bbb(bool) = (aaa(int) != ccc(int));
+    if (aaa(int)) {
+    }
+    if ((aaa(int) == bbb(bool))) {
+        while ((aaa(int) == false)) {
+        }
+    }
+    else {
+        while (1) {
+        }
+    }
+    cin >> bbb(bool);
+    cin >> test1(int->void);
+    cin >> S(struct);
+    cin >> t(S);
+    cin >> t(S).a(int);
+    cin >> aaa(int);
+    cout << bbb(bool);
+    cout << test2(bool->int);
+    cout << S(struct);
+    cout << t(S);
+    cout << t(S).a(int);
+    cout << aaa(int);
+    cout << test1(int->void)();
+    aaa(int)();
+    test1(int->void)();
+}
+

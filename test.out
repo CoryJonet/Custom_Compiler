@@ -1,0 +1,80 @@
+int b;
+int _w;
+int x12;
+int y;
+int z;
+bool flag;
+bool _what;
+bool idkwhatisthis123;
+struct node{
+    bool thisIsABoolean;
+    int a;
+};
+
+struct _whatisThis{
+    struct node a;
+    bool what;
+};
+
+struct node testNode;
+int endOfProgram(int blah) {
+    cout << z(int);
+}
+
+int test_arithmetic(int d) {
+    int moreVariables;
+    bool yay;
+    b(int) = 10;
+    x12(int) = 5;
+    y(int) = 8;
+    z(int) = 4;
+    z(int) = (-y(int));
+    flag(bool) = false;
+    _w(int) = (y(int) + z(int));
+    testNode(node).a(int) = z(int);
+    testNode(node).thisIsABoolean(bool) = false;
+    if (flag(bool)) {
+        b(int)++;
+        z(int)--;
+        b(int) = (b(int) + z(int));
+        b(int) = (b(int) - z(int));
+        b(int) = (b(int) * z(int));
+        b(int) = (b(int) / z(int));
+    }
+    if ((endOfProgram(int->int)(testNode(node).a(int)) > 1)) {
+        int a;
+        a(int) = 8;
+        cout << a(int);
+    }
+    else {
+        while (true) {
+            cin >> b(int);
+            cout << z(int);
+        }
+    }
+}
+
+void idkWhatThisIs(bool huh, int idk, bool cool) {
+}
+
+void thisIsPointless() {
+}
+
+void main() {
+    int h;
+    int g;
+    g(int) = 10;
+    h(int) = test_arithmetic(int->int)(h(int));
+    if ((testNode(node).a(int) > 1)) {
+        g(int) = 11;
+    }
+    cout << "Enter something for z:";
+    cin >> z(int);
+    while ((g(int) > 0)) {
+        thisIsPointless(->void)();
+        g(int)--;
+    }
+    g(int) = endOfProgram(int->int)(h(int));
+    thisIsPointless(->void)();
+}
+

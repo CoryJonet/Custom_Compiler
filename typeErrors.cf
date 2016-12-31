@@ -1,0 +1,151 @@
+int aaa;
+int ccc;
+bool bbb;
+struct S { int a; };
+struct A { bool y; };
+struct S t;
+struct S h;
+struct A n;
+
+void f(int p1, bool p2) {
+
+//     return p1;
+}
+
+// P5 test functions:
+   
+void test1(int x) {
+
+     int fff;
+
+     // Test return in void function
+     return fff;
+}
+
+int test2(bool z) {
+
+    bool jjj;
+
+    // Test mismatch return types
+    return jjj;
+}
+
+bool test3(bool y) {
+     
+     bool ddd;
+    
+     return;
+}
+
+void main() {
+    int aaa;
+    bool ddd;
+    
+    // Bad assignments
+    test1 = test2;
+    t = n;
+    S = A;
+
+    // Bad equalities
+    ddd = f(aaa, ddd) == test1(aaa);
+    ddd = t != n;
+    ddd = S == A;
+    // some errors involving illegal operations on functions
+    aaa = f + f;
+    bbb = f == 3;
+    bbb = f > main;
+    bbb = f == f;
+
+    // some errors involving bad function calls 
+    aaa();
+    f();
+    f(5);
+    f(aaa, aaa);
+    f(t, t.a);
+    S();
+
+    // some errors involving structs 
+    t = 5;
+    t = t;
+    cin >> S;
+    t = true || 3;
+    bbb = S && t.a;
+
+    // error involving return
+    return 10;
+
+    // other type errors 
+    aaa = aaa + (!false);
+    aaa = aaa + "foo";
+    bbb = aaa;
+
+    // don't give too many or too few error messages here 
+    bbb = (aaa + true) && (bbb < true);
+
+    // P5 own tests:
+       
+    // Wrong return types
+    ddd = test3(bbb);
+    aaa = test3(bbb);
+    
+    // Assigns
+    aaa = S;
+    aaa = t;
+    aaa = t.a;
+
+    // Test arithmetic operators on bool and int
+    bbb++;    
+    bbb--;
+    aaa--;
+    aaa++;
+    aaa = bbb + ccc;
+    aaa = bbb - ccc;
+    aaa = bbb * ccc;
+    aaa = bbb / ccc;
+    aaa = ccc + bbb;
+    aaa = ccc - bbb;
+    aaa = ccc * bbb;
+    aaa = ccc / bbb;
+
+    // Equality
+    bbb = aaa == ccc;
+    bbb = aaa == bbb;
+    bbb = (test1(aaa) == ccc);
+    bbb = aaa != ccc;
+
+    // Test non-bool operand
+    if (aaa) {}
+
+    // Test if and while operand
+    if (aaa == bbb) {
+       while(aaa == false) {}
+//       while(true) {}
+    }   
+  
+    else {
+       while(1) {}
+    }
+
+    // Test read/write
+    cin >> bbb;
+    cin >> test1;
+    cin >> S;
+    cin >> t;
+    cin >> t.a;
+    cin >> aaa;
+
+    cout << bbb;
+    cout << test2;
+    cout << S;
+    cout << t;
+    cout << t.a;
+    cout << aaa;
+    cout << test1();
+
+    // Call functions that don't exist
+    aaa();
+    
+    // Wrong arguments in function
+    test1();
+}
+
