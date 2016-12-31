@@ -1,5 +1,5 @@
 # Custom_Compiler
-Custom compiler based on made up programming language (although very similar to say Java). Uses JLex lexigraphical interpreter and Java Construction of Useful Parsers (CUP) to achieve compiler functionality.
+Custom compiler based on made up programming language, although very similar to Java, and uses the JLex lexigraphical interpreter and Java Construction of Useful Parsers (CUP) to achieve compiler functionality.
 
 Custom compiler designed around the following typical stages of a compiler:
 Stage 1: A source program is interpreted as a sequence of characters and is categorized by a symbol table
